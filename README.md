@@ -2,8 +2,8 @@
 
 card.io SDK for iOS
 ===================
+[card.io](http://allluckly.cn/ocr/back/) provides fast, easy credit card scanning in mobile apps.
 
-[card.io](https://www.card.io/) provides fast, easy credit card scanning in mobile apps.
 
 > #### *NEW!!! card.io is now an open-source project!*
 > 
