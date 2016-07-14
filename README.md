@@ -1,5 +1,5 @@
 [![card.io logo](https://raw.githubusercontent.com/card-io/card.io-iOS-source/master/Resources/cardio_logo_220.png "card.io")](https://www.card.io)
-
+扫描识别银行卡号
 card.io SDK for iOS
 ===================
 [card.io](http://allluckly.cn/ocr/back/) provides fast, easy credit card scanning in mobile apps.
